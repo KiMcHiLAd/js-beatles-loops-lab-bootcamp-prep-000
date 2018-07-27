@@ -1,2 +1,2 @@
 // add solution here
-function theBeatlesplay
+function theBeatlesPlay
